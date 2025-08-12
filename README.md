@@ -35,13 +35,6 @@
 
 ---
 
-### 📫 Connect
-
-- Drop me a message on GitHub!
-- (Add your socials here if you want)
-
----
-
 <p align="center">
   <img src="https://media.giphy.com/media/giJ3aJw9c3pOE/giphy.gif" width="100" alt="Moomins Dancing">
 </p>
