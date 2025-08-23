@@ -1,10 +1,8 @@
 <!-- hedgehogform's GitHub Profile README -->
 
-<h1 align="center">Hi, I'm hedgehogform! 🦔</h1>
+![20250823_213157](https://github.com/user-attachments/assets/8a34ee09-fa9f-41c8-a523-b5cc227cc75a)
 
-<p align="center">
-  <img src="https://media.giphy.com/media/QX8R5uyt7u6Ew/giphy.gif" width="120" alt="Sonic the Hedgehog running">
-</p>
+<h1 align="center">Hi, I'm hedgehogform! 🦔</h1>
 
 <p align="center">
   <b>Golang enthusiast • HTML dabbler • Fan of Sonic, Snufkin, the Moomins & Rocky Rickaby</b>
