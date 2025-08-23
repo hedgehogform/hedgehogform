@@ -34,5 +34,5 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/giJ3aJw9c3pOE/giphy.gif" width="100" alt="Moomins Dancing">
+  <img src="https://media.giphy.com/media/whatthefuckthislink/giphy.gif" width="100" alt="Moomins Dancing">
 </p>
