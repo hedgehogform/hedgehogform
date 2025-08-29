@@ -10,6 +10,8 @@
 
 ---
 
+![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=ultimateshdform&header_style=normal_stats&footer_style=wave&maxage=60)
+
 ### 🚀 About Me
 
 - 🖥️ I build things with **Golang** and **HTML**
