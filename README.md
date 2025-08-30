@@ -10,7 +10,7 @@
 
 ---
 
-![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=ultimateshdform&header_style=normal_stats&footer_style=wave&maxage=60)
+![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=ultimateshdform&header_style=normal_stats&footer_style=wave&maxage=60&loved=true)
 
 ### 🚀 About Me
 
