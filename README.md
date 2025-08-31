@@ -9,6 +9,39 @@
 </p>
 
 ---
+```
+🎵 🎵 🎵 🎵 🎵 🎵 🎵 🎵 🎵 🎵 🎵
+Yeah, I'm a missing link of this illusion
+I am not really here, I'm an intrusion
+I don't swim or sink, I just float
+I don't need gravity, I just need growth
+
+When I move, it's an earthquake rumble
+I will never, ever fall, never stumble
+And I don't need to be humble
+Break down walls like Jericho, crumble
+
+I can go higher
+Past the stratosphere, I can catch fire
+I can go hard, I don't even need to try, yeah
+Starblood, I don't ever get tired
+Predestined, written in stone
+I feel it coming in, I feel it in my bones
+Heavily protected, never alone
+Tapped in, I'm connected to the unknown
+
+When I move, it's an earthquake rumble
+I will never, ever fall, never stumble
+And I don't need to be humble
+Break down walls like Jericho, crumble
+
+When I move, it's an earthquake rumble
+I will never, ever fall, never stumble
+And I don't need to be humble
+Break down walls like Jericho, crumble
+🎵 🎵 🎵 🎵 🎵 🎵 🎵 🎵 🎵 🎵 🎵
+```
+---
 
 ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=ultimateshdform&header_style=normal_stats&footer_style=wave&maxage=60&loved=true)
 
