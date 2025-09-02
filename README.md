@@ -63,9 +63,9 @@ Break down walls like Jericho, crumble
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hedgehogform/hedgehogform/main/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hedgehogform/hedgehogform/main/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/hedgehogform/hedgehogform/main/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hedgehogform/hedgehogform/refs/heads/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hedgehogform/hedgehogform/refs/heads/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/hedgehogform/hedgehogform/refs/heads/output/github-contribution-grid-snake.svg" />
 </picture>
 
 ### 🌟 Fun Fact
