@@ -8,7 +8,9 @@
   <b>Golang enthusiast • HTML dabbler • Fan of Sonic, Snufkin, the Moomins & Rocky Rickaby</b>
 </p>
 
-#1 Rust hater. Community sucks. Though I use it sometimes.
+<!-- #1 Rust hater. Community sucks. Though I use it sometimes. -->
+
+I work on multiple projects at once. Kinda demanding 💁🏼‍♂️.
 
 ---
 ```
