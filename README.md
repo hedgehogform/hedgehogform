@@ -12,6 +12,9 @@
 
 I work on multiple projects at once. Kinda demanding 💁🏼‍♂️.
 
+<img width="1022" height="774" alt="image" src="https://github.com/user-attachments/assets/87f43198-b1ee-4649-8dfd-454e75857256" />
+
+
 ---
 ```
 🎵 🎵 🎵 🎵 🎵 🎵 🎵 🎵 🎵 🎵 🎵
