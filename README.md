@@ -15,36 +15,8 @@ I work on multiple projects at once.
 
 ---
 ```
-🎵 🎵 🎵 🎵 🎵 🎵 🎵 🎵 🎵 🎵 🎵
-Yeah, I'm a missing link of this illusion
-I am not really here, I'm an intrusion
-I don't swim or sink, I just float
-I don't need gravity, I just need growth
-
-When I move, it's an earthquake rumble
-I will never, ever fall, never stumble
-And I don't need to be humble
-Break down walls like Jericho, crumble
-
-I can go higher
-Past the stratosphere, I can catch fire
-I can go hard, I don't even need to try, yeah
-Starblood, I don't ever get tired
-Predestined, written in stone
-I feel it coming in, I feel it in my bones
-Heavily protected, never alone
-Tapped in, I'm connected to the unknown
-
-When I move, it's an earthquake rumble
-I will never, ever fall, never stumble
-And I don't need to be humble
-Break down walls like Jericho, crumble
-
-When I move, it's an earthquake rumble
-I will never, ever fall, never stumble
-And I don't need to be humble
-Break down walls like Jericho, crumble
-🎵 🎵 🎵 🎵 🎵 🎵 🎵 🎵 🎵 🎵 🎵
+"The strongest forces in this world—are not seen… but felt. The wind leaves no face, yet carves mountains into dust.  
+The root seeks no praise, yet holds the sky from falling. And chi? It flows through me, silent, unseen… but when I rise, the kingdom does not burn…"
 ```
 ---
 
