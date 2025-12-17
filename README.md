@@ -1,4 +1,5 @@
 <!-- hedgehogform's GitHub Profile README -->
+<img width="3840" height="1284" alt="SHADXW" src="https://github.com/user-attachments/assets/d71b0544-a970-4df7-a217-d4b200e19a45" />
 
 ![20250823_213157](https://github.com/user-attachments/assets/8a34ee09-fa9f-41c8-a523-b5cc227cc75a)
 
