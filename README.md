@@ -13,6 +13,9 @@ I work on multiple projects at once.
 
 ![Go](https://img.shields.io/badge/-Golang-00ADD8?logo=go&logoColor=white&style=flat)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
+![C#](https://img.shields.io/badge/-C%23-512BD4?logo=csharp&logoColor=white&style=flat)
+
+
 
 ---
 ```
