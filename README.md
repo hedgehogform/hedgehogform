@@ -41,4 +41,6 @@ I work on multiple projects at once.
 
 ---
 
+Art by [シャドルクス・ザ・ヘッジホッグ](https://github.com/ctrlbandit)
+
 </div>
