@@ -1,6 +1,6 @@
 <div align="center">
 
-# ጃርትን ጥላ  
+# YI
 <img width="3840" height="1284" alt="SHADXW" src="https://github.com/user-attachments/assets/d71b0544-a970-4df7-a217-d4b200e19a45" />
 
 | <img height="64" alt="SHADXW" src="https://github.com/user-attachments/assets/8964aeae-b8ba-4e9a-9630-5c489a146134" /> | <h1 align="center">Hi, I'm SHADXW!</h1> | <img height="64" alt="SHADXW" src="https://github.com/user-attachments/assets/8964aeae-b8ba-4e9a-9630-5c489a146134" /> |
