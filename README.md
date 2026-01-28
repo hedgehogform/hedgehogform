@@ -1,6 +1,6 @@
 <div align="center">
 
-# YI
+# አሌክስ
 ![1d7180f8d38d6f6db6e037fd94a51173](https://github.com/user-attachments/assets/473d8d9c-0349-452d-bb9a-c215b4197346)
 
 I work on multiple projects at once.
