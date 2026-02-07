@@ -35,6 +35,4 @@ I work on multiple projects at once.
   <img alt="github-snake" src="https://raw.githubusercontent.com/hedgehogform/hedgehogform/refs/heads/output/github-contribution-grid-snake.svg" />
 </picture>
 
----
-
 </div>
