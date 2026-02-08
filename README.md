@@ -1,7 +1,8 @@
 <div align="center">
 
-# አሌክስ
-![1d7180f8d38d6f6db6e037fd94a51173](https://github.com/user-attachments/assets/473d8d9c-0349-452d-bb9a-c215b4197346)
+# SHADXW
+![48a27e9786dd1344ebad7a899fcc9dbb](https://github.com/user-attachments/assets/9a867862-6479-4a21-b9a3-7fadd6a8f483)
+
 
 I work on multiple projects at once.
 
