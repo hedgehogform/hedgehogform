@@ -1,7 +1,8 @@
 <div align="center">
 
-# SHADXW
-![48a27e9786dd1344ebad7a899fcc9dbb](https://github.com/user-attachments/assets/9a867862-6479-4a21-b9a3-7fadd6a8f483)
+# YI
+<img width="735" height="717" alt="image" src="https://github.com/user-attachments/assets/77a588dc-a1f2-4e25-93f2-3c536d2fe404" />
+
 
 
 I work on multiple projects at once.
@@ -27,7 +28,7 @@ I work on multiple projects at once.
 
 ---
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=hedgehogform&bg_color=000000&color=FF0000&line=0000FF&point=FFFF00&area=true&hide_border=true&area_color=FF0000)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=hedgehogform&bg_color=000000&color=FFFF00&line=32CD32&point=FFFF00&area=true&hide_border=true&area_color=FFFF00)
 ---
 
 <picture>
