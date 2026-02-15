@@ -37,4 +37,7 @@ I work on multiple projects at once.
   <img alt="github-snake" src="https://raw.githubusercontent.com/hedgehogform/hedgehogform/refs/heads/output/github-contribution-grid-snake.svg" />
 </picture>
 
+<img width="636" height="1024" alt="IMG_0983" src="https://github.com/user-attachments/assets/75220a68-8ab5-4569-8958-720424618aee" />
+
+
 </div>
