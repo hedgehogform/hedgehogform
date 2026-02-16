@@ -20,6 +20,7 @@ I work on multiple projects at once.
 ---
 <img width="636" height="1024" alt="IMG_0983" src="https://github.com/user-attachments/assets/75220a68-8ab5-4569-8958-720424618aee" />
 
+Art by [Shadorux](https://github.com/shadorux-dev)
 ```
 "በዚህ ዓለም ውስጥ በጣም ጠንካራ ኃይሎች - አይታዩም ... ግን ይሰማሉ። ነፋሱ ፊት አይተውም ፣ ግን ተራሮችን ወደ አቧራ ይቆርጣል።
 
