@@ -1,7 +1,7 @@
 <div align="center">
 
-# S͓̽H͓̽4͓̽D͓̽O͓̽W͓̽
-<img width="689" height="919" alt="image" src="https://i.pinimg.com/736x/5c/d5/f1/5cd5f14780e4019d8bf196f3296a968d.jpg" />
+# 🖤 S͓̽H͓̽4͓̽D͓̽O͓̽W͓̽ 🖤
+<img width="600" height="200" alt="image" src="https://i.pinimg.com/736x/5c/d5/f1/5cd5f14780e4019d8bf196f3296a968d.jpg" />
 
 
 
