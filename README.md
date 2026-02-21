@@ -30,7 +30,7 @@ Art by [Shadorux](https://github.com/shadorux-dev) ❤️
 
 ---
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=hedgehogform&bg_color=000000&color=FFFF00&line=32CD32&point=FFFF00&area=true&hide_border=true&area_color=FFFF00)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=hedgehogform&bg_color=000000&color=FF0000&line=32CD32&point=FFFF00&area=true&hide_border=true&area_color=FFFF00)
 ---
 
 <picture>
