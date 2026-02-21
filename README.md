@@ -1,9 +1,8 @@
 <div align="center">
 
 # 🖤 S͓̽H͓̽4͓̽D͓̽O͓̽W͓̽ 🖤
-<img width="600" height="200" alt="image" src="https://i.pinimg.com/736x/5c/d5/f1/5cd5f14780e4019d8bf196f3296a968d.jpg" />
 
-
+![floragato-torracat](https://github.com/user-attachments/assets/d18d6050-39da-493c-8713-53eee787786c)
 
 I work on multiple projects at once.
 
