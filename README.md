@@ -1,7 +1,8 @@
 <div align="center">
 
-# 🖤 SHADXW 🖤
-![c1d41cb0e2b6eee1d69f6e35c1e0524e](https://github.com/user-attachments/assets/557bfacd-9a7f-42d1-b6bc-36b695cf5d9c)
+# YI
+![b921ec9a9ccbafc5913c2e38ddff2b69](https://github.com/user-attachments/assets/2bf5299f-7f50-4d8e-bd20-2fa8605b82a5)
+
 
 
 I work on multiple projects at once.
