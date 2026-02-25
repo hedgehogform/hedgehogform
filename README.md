@@ -38,6 +38,4 @@ I work on multiple projects at once.
 
 ---
 
-Shadow art by [シャドルクス・ザ・ヘッジホッグ](https://github.com/shadorux-dev)
-
 </div>
